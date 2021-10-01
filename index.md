@@ -3,10 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
 
 Welkom bij de i&i conferentie-site 2021.
 Hier vind je het programma, en later de presentaties en andere materialen.
+
+De conferentie vindt plaats op donderdag 11 november, van 10:00-18:00 uur???
+
+De locatie is het Victor J. Koningsberger-gebouw, Budapestlaan 4a-b, 3584 CD Utrecht, op de Uithof (Utrecht Science Park).
+Dit is uitstekend bereikbaar via het OV, zoals met de Uithoflijn (tram 22, 12 min. van Utrecht CS centrumzijde naar de Uithof.)
 
 ## Programma
 
